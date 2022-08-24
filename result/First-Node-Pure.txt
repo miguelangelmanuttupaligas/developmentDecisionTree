@@ -1,0 +1,20 @@
+Característica: sepal-length
+Valor Gini en Row: [7.6, 3.0, 6.6, 2.1, 2.0] es 0.0
+Valor Gini en Row: [7.7, 2.8, 6.7, 2.0, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.8, 6.7, 2.2, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.0, 6.1, 2.3, 2.0] es 0.0
+Característica: sepal-width
+Valor Gini en Row: [7.6, 3.0, 6.6, 2.1, 2.0] es 0.0
+Valor Gini en Row: [7.7, 2.8, 6.7, 2.0, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.8, 6.7, 2.2, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.0, 6.1, 2.3, 2.0] es 0.0
+Característica: petal-length
+Valor Gini en Row: [7.6, 3.0, 6.6, 2.1, 2.0] es 0.0
+Valor Gini en Row: [7.7, 2.8, 6.7, 2.0, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.8, 6.7, 2.2, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.0, 6.1, 2.3, 2.0] es 0.0
+Característica: petal-width
+Valor Gini en Row: [7.6, 3.0, 6.6, 2.1, 2.0] es 0.0
+Valor Gini en Row: [7.7, 2.8, 6.7, 2.0, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.8, 6.7, 2.2, 2.0] es 0.0
+Valor Gini en Row: [7.7, 3.0, 6.1, 2.3, 2.0] es 0.0
