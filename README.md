@@ -167,7 +167,7 @@ Luego de esta fase recursiva. Obtendriamos nuestro árbol entrenado.
 
 El algoritmo desarrollado encapsula la lógica de Decision Tree bajo el algoritmo CART y mantienen una estructura similar a los métodos ofrecidos en Scikit-learn
 
-## Clase K-Nearest-Neighbors
+## Clase DecisionTree
 Brinda 3 métodos:
 - 'fit(X,y)' : A menudo X_train y Y_train
 - 'predict(X)': A menudo X_test o una fila individual 
